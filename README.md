@@ -7,7 +7,7 @@
 - 📫 Reach me on:<br>
 
 <a href="https://www.youtube.com/channel/UC6Vhf_yoIWXiLLJqTrU0FWA">
-<img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg?cache=72a5d9c" width="22px"> 
+<img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="22px"> 
 </a>
 
 <a href="https://linkedin.com/in/aungpaing98">
