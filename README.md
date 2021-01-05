@@ -7,15 +7,15 @@
 - 📫 Reach me on:<br>
 
 <a href="https://www.youtube.com/channel/UC6Vhf_yoIWXiLLJqTrU0FWA">
-<img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="22px"> 
+<img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="22px style="vertical-align:middle;margin:0px 40px"> 
 </a>
 
 <a href="https://linkedin.com/in/aungpaing98">
-<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="22px">
+<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="22px" style="vertical-align:middle;margin:0px 40px">
 </a>
 
 <a href="https://www.facebook.com/aung.paing.jj.986">
-<img src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" width="22px"> 
+<img src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" width="22px" style="vertical-align:middle;margin:0px 40px"> 
 </a>
 
 
