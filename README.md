@@ -6,14 +6,17 @@
 - 💻 Currently learning everything.
 - 📫 Reach me on:<br>
 
-[<img align="left" alt="Aung Paing | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Aung Paing | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aung Paing | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<a href="https://www.youtube.com/channel/UC6Vhf_yoIWXiLLJqTrU0FWA">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="22px"> 
+</a>
 
-[youtube]: https://youtube.com/UC6Vhf_yoIWXiLLJqTrU0FWA
-[linkedin]: https://linkedin.com/in/aungpaing98
-[facebook] https://www.facebook.com/aung.paing.jj.986
+<a href="https://linkedin.com/in/aungpaing98">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px">
+</a>
 
+<a href="https://www.facebook.com/aung.paing.jj.986">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="22px"> 
+</a>
 
 
 [![Aung Paing's github stats](https://github-readme-stats.vercel.app/api?username=aungpaing98)](https://github.com/aungpaing98/github-readme-stats&count_private=true&theme=dracula)
