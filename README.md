@@ -8,6 +8,7 @@
 [FaceBook](https://www.facebook.com/aung.paing.jj.986/)
 [LinkedIn](https://www.linkedin.com/in/aungpaing98/)
 
+![Aung Paing's github stats](https://github-readme-stats.vercel.app/api?username=aungpaing98&show_icons=true&theme=dracula)
 
 [![Aung Paing's github stats](https://github-readme-stats.vercel.app/api?username=aungpaing98)](https://github.com/aungpaing98/github-readme-stats&count_private=true)
 
