@@ -4,9 +4,9 @@
 - 🔭 Currently as the Teaching Assistance in Computer Vision and Machine Learning lab in Yangon Technological Unversity.
 - 👯 Looking to collaborate on Computer Vision Projects.
 - 💻 Currently learning everything.
-- 📫 How to reach me:
-[FaceBook](https://www.facebook.com/aung.paing.jj.986/)
-[LinkedIn](https://www.linkedin.com/in/aungpaing98/)
+- 📫 Reach me on:<br>
+[![](https://data.jsdelivr.com/v1/package/npm/facebook/badge)](https://www.jsdelivr.com/package/npm/facebook)(https://www.facebook.com/aung.paing.jj.986/)
+[![](https://data.jsdelivr.com/v1/package/npm/x3-linkedlist/badge)](https://www.jsdelivr.com/package/npm/x3-linkedlist)(https://www.linkedin.com/in/aungpaing98/)
 
 [![Aung Paing's github stats](https://github-readme-stats.vercel.app/api?username=aungpaing98)](https://github.com/aungpaing98/github-readme-stats&count_private=true&theme=dracula)
 
