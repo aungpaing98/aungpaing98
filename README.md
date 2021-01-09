@@ -1,4 +1,10 @@
-### 👋🏻👋🏻 Hello, Welcome to my Github
+## မဂၤလာပါ။ I'm Paing<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+I am Aung Paing, final year B.E mechatronic student at Yangon Technological University.
+
+:mailbox: You can reach me on:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Paing-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aungpaing98/) [![Mail Badge](https://img.shields.io/badge/-aungpaing-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](aungpaingcha1@gmail.com) [![Mail Badge](https://img.shields.io/badge/-Paing-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](mailto:islempenywis@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-Paing-c0392b?style=flat&labelColor=c0392b&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6Vhf_yoIWXiLLJqTrU0FWA)
 
 
 - 🔭 Currently as the Teaching Assistance in Computer Vision and Machine Learning lab in Yangon Technological Unversity.
@@ -6,20 +12,21 @@
 - 💻 Currently learning everything.
 - 📫 Reach me on:<br>
 
-<a href="https://www.youtube.com/channel/UC6Vhf_yoIWXiLLJqTrU0FWA">
-<img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="22px style="vertical-align:middle;margin:0px 20px"> 
-</a>
+### Top technologies
 
-<a href="https://linkedin.com/in/aungpaing98">
-<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="22px" style="vertical-align:middle;margin:0px 20px">
-</a>
+[![Python Badge](https://img.shields.io/badge/-Python-white?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
+[![Markdown Badge](https://img.shields.io/badge/-Markdown-white?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)](#)
+[![Keras Badge](https://img.shields.io/badge/-Keras-c20808?style=for-the-badge&labelColor=black&logo=keras&logoColor=c20808)](#) [![Pytorch Badge](https://img.shields.io/badge/-Pytorch-ed4b2b?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=ed4b2b)](#)
 
-<a href="https://www.facebook.com/aung.paing.jj.986">
-<img src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" width="22px" style="vertical-align:middle;margin:0px 20px"> 
-</a>
+### Blogging
+
+[![Blogging Badge](https://img.shields.io/badge/-blogs-blue?style=for-the-badge&labelColor=black)](https://aungpaing98.github.io/blogs/)
 
 
-[![Aung Paing's github stats](https://github-readme-stats.vercel.app/api?username=aungpaing98)](https://github.com/aungpaing98/github-readme-stats&count_private=true&theme=dracula)
+### Profile Visits
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungpaing98&layout=compact)](https://github.com/aungpaing98/github-readme-stats&theme=dracula)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aunpaing98.aungpaing98)
 
+### Github Stats
+
+![Aung Paing's github stats](https://github-readme-stats.vercel.app/api?username=aungpaing98&count_private=false&theme=tokyonight&hide=contribs,prs)
