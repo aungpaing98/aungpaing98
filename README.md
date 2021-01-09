@@ -10,7 +10,7 @@ I am Aung Paing, final year B.E mechatronic student at Yangon Technological Univ
 - 🔭 Currently as the Teaching Assistance in Computer Vision and Machine Learning lab in Yangon Technological Unversity.
 - 👯 Looking to collaborate on Computer Vision Projects.
 - 💻 Currently learning everything.
-- 📫 Reach me on:<br>
+
 
 ### Top technologies
 
