@@ -9,7 +9,7 @@ I am Aung Paing, final year B.E Mechatronic at Yangon Technological University.
 
 :mailbox: You can reach me on:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Paing-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aungpaing98/) [![Mail Badge](https://img.shields.io/badge/-aungpaing-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](<a href="mailto:aungpaingcha1@gmail.com"></a>) [![Facebook Badge](https://img.shields.io/badge/-Paing-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/aung.paing.jj.986) [![Youtube Badge](https://img.shields.io/badge/-Paing-c0392b?style=flat&labelColor=c0392b&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6Vhf_yoIWXiLLJqTrU0FWA)
+[![Linkedin Badge](https://img.shields.io/badge/-Paing-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aungpaing98/) [![Mail Badge](https://img.shields.io/badge/-aungpaing-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aungpaingcha1@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Paing-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/aung.paing.jj.986) [![Youtube Badge](https://img.shields.io/badge/-Paing-c0392b?style=flat&labelColor=c0392b&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6Vhf_yoIWXiLLJqTrU0FWA)
 
 
 ### Top technologies
