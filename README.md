@@ -3,7 +3,7 @@
 I am Aung Paing, final year B.E Mechatronic at Yangon Technological University.
 
 - 🔭 Currently as the Teaching Assistance in Computer Vision and Machine Learning lab in Yangon Technological Unversity.
-- 👯 Looking to collaborate on Computer Vision Projects.
+- 👯 Looking to collaborate on Front-End & Computer Vision Projects.
 - 💻 Currently learning everything.
 
 
@@ -14,14 +14,19 @@ I am Aung Paing, final year B.E Mechatronic at Yangon Technological University.
 
 ### Top technologies
 
+[![HTML Badge](https://img.shields.io/badge/-HTML-white?style=for-the-badge&labelColor=black&logo=html&logoColor=white)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-white?style=for-the-badge&labelColor=black&logo=css&logoColor=white)](#)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white)](#)
+[![React Badge](https://img.shields.io/badge/-React-white?style=for-the-badge&labelColor=black&logo=react&logoColor=white)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-white?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
 [![Markdown Badge](https://img.shields.io/badge/-Markdown-white?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)](#)
-[![Keras Badge](https://img.shields.io/badge/-Keras-c20808?style=for-the-badge&labelColor=black&logo=keras&logoColor=c20808)](#) [![Pytorch Badge](https://img.shields.io/badge/-Pytorch-ed4b2b?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=ed4b2b)](#)
+
 
 
 ### Blogging
 
-[![Blogging Badge](https://img.shields.io/badge/-blogs-blue?style=for-the-badge&labelColor=black)](https://aungpaing98.github.io/blogs/)
+[![Blogging Badge](https://img.shields.io/badge/-Blogs-white?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
 
 
 ### Profile Visits
