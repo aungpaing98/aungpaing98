@@ -14,8 +14,8 @@ I am Aung Paing, final year B.E Mechatronic at Yangon Technological University.
 
 ### Top technologies
 
-[![HTML Badge](https://img.shields.io/badge/-HTML-white?style=for-the-badge&labelColor=black&logo=html&logoColor=white)](#)
-[![CSS Badge](https://img.shields.io/badge/-CSS-white?style=for-the-badge&labelColor=black&logo=css&logoColor=white)](#)
+[![HTML Badge](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&labelColor=black&logo=html&logoColor=white)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-steelblue?style=for-the-badge&labelColor=black&logo=css&logoColor=white)](#)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/-React-white?style=for-the-badge&labelColor=black&logo=react&logoColor=white)](#)
@@ -26,7 +26,7 @@ I am Aung Paing, final year B.E Mechatronic at Yangon Technological University.
 
 ### Blogging
 
-[![Blogging Badge](https://img.shields.io/badge/-Blogs-white?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
+![Blogging Badge](https://img.shields.io/badge/-Blogs-white?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
 
 
 ### Profile Visits
