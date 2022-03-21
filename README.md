@@ -2,7 +2,7 @@
 
 Name is Aung Paing
 
-- 🔭 Currently as Trainer in Lattwae Education.
+- 🔭 Currently working as an AI engineer in Global walkers, Myanmar.
 - 👯 Looking to collaborate on Front-End & Computer Vision Projects.
 - 💻 Currently learning everything.
 
