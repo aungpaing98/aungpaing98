@@ -32,6 +32,7 @@ Name is Aung Paing
 ### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aunpaing98.aungpaing98)
+![](https://komarev.com/ghpvc/?username=aungpaing98&color=blue&style=for-the-badge)
 
 
 ### Github Stats
